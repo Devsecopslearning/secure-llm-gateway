@@ -1,0 +1,6 @@
+# Project dependencies for Secure LLM Gateway
+flask
+requests
+pyjwt
+python-json-logger
+python-dotenv
